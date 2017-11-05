@@ -10,3 +10,9 @@ A website replica of the software that I already use at work:
   ii. If case has no checks it will not be on the OnsiteFilingTracker
 * Link 2: Reports will be automatically mailed out at 12pm CST from all Trackers
 * Link 3: Create a Template for Official Letters, export them into PDF format and automatically save onto user’s Dsktop.
+
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
